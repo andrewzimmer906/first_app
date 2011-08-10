@@ -13,7 +13,7 @@
 		<key>StateType</key>
 		<string>ProjectWindow</string>
 		<key>TopLeftPoint</key>
-		<string>{65, 769}</string>
+		<string>{20, 544}</string>
 	</dict>
 	<key>com.macrabbit.Espresso.FileManager.DisclosureCollapsed</key>
 	<false/>
@@ -21,7 +21,8 @@
 	<dict>
 		<key>ExpandedURLs</key>
 		<array>
-			<string>file://localhost/Users/azimmer/Documents/Ruby%20Tutorials/first_app/test/performance</string>
+			<string>file://localhost/Users/azimmer/Documents/Ruby%20Tutorials/first_app/app/controllers</string>
+			<string>file://localhost/Users/azimmer/Documents/Ruby%20Tutorials/first_app/app/views/layouts</string>
 		</array>
 	</dict>
 	<key>com.macrabbit.Espresso.Publisher.DisclosureCollapsed</key>
